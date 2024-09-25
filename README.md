@@ -17,5 +17,29 @@ The dataset contains loan application information with features such as:
 - **Scikit-Learn**
 - **Matplotlib/Seaborn** for visualization
 
+To access the file click here: https://lakshdugar.github.io/credit-risk-data/CreditRiskData.html
 
+ ```bash
+CreditRiskLoanPrediction/
+├── data/
+│   └── loan_data.csv       # Dataset
+├── notebooks/
+│   └── CreditRiskModel.ipynb  # Jupyter Notebook containing the ML model
+├── models/
+│   └── logistic_regression.pkl
+│   └── decision_tree.pkl
+├── README.md
+└── requirements.txt        # Python dependencies
 
+Model Development
+Logistic Regression
+Accuracy: 74%
+Confusion Matrix:
+[[120 30]
+ [ 25 95]]
+
+Decision Tree
+Accuracy: 72%
+Confusion Matrix:
+[[115 35]
+ [ 28 92]]
