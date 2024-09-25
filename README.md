@@ -21,4 +21,4 @@ The dataset contains loan application information with features such as:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CreditRiskLoanPrediction.git
+   git clone https://github.com/lakshdugar/CreditRiskLoanPrediction.git
