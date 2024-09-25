@@ -18,7 +18,6 @@ The dataset contains loan application information with features such as:
 - **Scikit-Learn**
 - **Matplotlib/Seaborn** for visualization
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/lakshdugar/CreditRiskLoanPrediction.git
+git clone https://github.com/lakshdugar/CreditRiskLoanPrediction.git
+cd CreditRiskLoanPrediction
+mkdir data notebooks models
