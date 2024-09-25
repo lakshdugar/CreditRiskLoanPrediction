@@ -15,7 +15,7 @@ The dataset contains loan application information with features such as:
 - **Python**
 - **Pandas**
 - **Scikit-Learn**
-- **Matplotlib/Seaborn** for visualization
+- **Matplotlib** for visualization
 
 To access the file click here: https://lakshdugar.github.io/CreditRiskLoanPrediction/
 
