@@ -53,7 +53,7 @@ The Logistic Regression model performed slightly better than the Decision Tree i
 - Add more advanced algorithms like Random Forest and XGBoost to improve model accuracy.
 - Integrate deep learning models using TensorFlow or PyTorch for better predictions.
 - Incorporate additional features like Credit Score, Loan Repayment History, and Debt-to-Income Ratio.
-- 
+
 ## Conclusion
 This project demonstrates the potential of machine learning models to improve decision-making in the financial sector, particularly for credit risk assessment. The insights generated from the model can help financial institutions make more informed lending decisions and reduce default risks.
 
